@@ -8,6 +8,9 @@
 	margin-top: 5px;
 }
 
+body {
+	background-color: #f2fdf5;
+}
 
 /*Faz auteração da cor quando o mouse passa nos links dentro do menu*/
 #menu a:hover{
@@ -25,12 +28,20 @@ a pagina com o seletor *  */
 }
 
 nav{
-	min-height:40px;
+	min-height:20px;
 	margin-bottom: 0;	
 }
 
 main{
-	margin: 100px;
+	margin: 140px;
+}
+
+section{
+	background-color: #def1e4;
+}
+
+#servicos{
+	margin-bottom: 30px;
 }
 
 footer p{
